@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.fly {
+    background-image: url("https://live.paloaltonetworks.com/t5/image/serverpage/image-id/22191i7A74EF23FFFFCD96/image-size/large/is-moderation-mode/true?v=1.0&px=999");
+    background-size: contain;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+}
+
+/*.fly_killed {*/
+/*    background-image: url("../img/blood.png");*/
+/*}*/
+
+/** {*/
+/*    cursor: url("../img/flykiller2.png"), auto;*/
+/*}*/
+
+#menu {
+    background-color: silver;
+    border: 1px solid black;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 50%;
+
+}
+
+#menu div {
+    display: inline-block;
+    border: 1px solid white;
+    padding: 4px;
+}
+
+#start {
+     background-color: red;
+     cursor: pointer;
+ }
+
+#start:hover{
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+}
+
