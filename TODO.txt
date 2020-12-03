@@ -1,0 +1,5 @@
+Dont work problem
+on hit -> change style of  fly
+cursor style repair
+Pausing game
+Multiple flys
